@@ -1,0 +1,3691 @@
+[
+  {
+    "Humidity": 36.1,
+    "light": 34174,
+    "Temp": 19.5,
+    "dev point": 4.1,
+    "VPD": 1.45
+  },
+  {
+    "Humidity": 36,
+    "light": 35877,
+    "Temp": 19.6,
+    "dev point": 4.1,
+    "VPD": 1.46
+  },
+  {
+    "Humidity": 35.9,
+    "light": 37588,
+    "Temp": 19.6,
+    "dev point": 4.1,
+    "VPD": 1.46
+  },
+  {
+    "Humidity": 34.7,
+    "light": 38365,
+    "Temp": 19.7,
+    "dev point": 3.7,
+    "VPD": 1.5
+  },
+  {
+    "Humidity": 34,
+    "light": 38285,
+    "Temp": 20,
+    "dev point": 3.7,
+    "VPD": 1.54
+  },
+  {
+    "Humidity": 32.8,
+    "light": 37265,
+    "Temp": 20.2,
+    "dev point": 3.3,
+    "VPD": 1.59
+  },
+  {
+    "Humidity": 32.9,
+    "light": 36176,
+    "Temp": 20.5,
+    "dev point": 3.6,
+    "VPD": 1.62
+  },
+  {
+    "Humidity": 33.7,
+    "light": 35545,
+    "Temp": 20.6,
+    "dev point": 4.1,
+    "VPD": 1.61
+  },
+  {
+    "Humidity": 33.9,
+    "light": 34376,
+    "Temp": 20.7,
+    "dev point": 4.2,
+    "VPD": 1.61
+  },
+  {
+    "Humidity": 34.7,
+    "light": 33671,
+    "Temp": 20.8,
+    "dev point": 4.6,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 35.9,
+    "light": 33917,
+    "Temp": 20.8,
+    "dev point": 5.1,
+    "VPD": 1.57
+  },
+  {
+    "Humidity": 35.5,
+    "light": 34552,
+    "Temp": 20.7,
+    "dev point": 4.9,
+    "VPD": 1.57
+  },
+  {
+    "Humidity": 34.1,
+    "light": 35716,
+    "Temp": 20.7,
+    "dev point": 4.3,
+    "VPD": 1.61
+  },
+  {
+    "Humidity": 33.3,
+    "light": 36680,
+    "Temp": 20.7,
+    "dev point": 4,
+    "VPD": 1.63
+  },
+  {
+    "Humidity": 34.7,
+    "light": 37321,
+    "Temp": 20.7,
+    "dev point": 4.6,
+    "VPD": 1.59
+  },
+  {
+    "Humidity": 35,
+    "light": 38042,
+    "Temp": 20.9,
+    "dev point": 4.9,
+    "VPD": 1.61
+  },
+  {
+    "Humidity": 36.2,
+    "light": 38577,
+    "Temp": 21.1,
+    "dev point": 5.5,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 35.5,
+    "light": 38674,
+    "Temp": 21,
+    "dev point": 5.2,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 36.5,
+    "light": 38401,
+    "Temp": 20.9,
+    "dev point": 5.5,
+    "VPD": 1.57
+  },
+  {
+    "Humidity": 36.6,
+    "light": 38633,
+    "Temp": 20.7,
+    "dev point": 5.3,
+    "VPD": 1.55
+  },
+  {
+    "Humidity": 36.4,
+    "light": 39008,
+    "Temp": 20.6,
+    "dev point": 5.2,
+    "VPD": 1.54
+  },
+  {
+    "Humidity": 37.8,
+    "light": 39684,
+    "Temp": 20.5,
+    "dev point": 5.6,
+    "VPD": 1.5
+  },
+  {
+    "Humidity": 37.2,
+    "light": 40301,
+    "Temp": 20.3,
+    "dev point": 5.2,
+    "VPD": 1.5
+  },
+  {
+    "Humidity": 36.9,
+    "light": 40904,
+    "Temp": 20.3,
+    "dev point": 5.1,
+    "VPD": 1.5
+  },
+  {
+    "Humidity": 37.2,
+    "light": 41834,
+    "Temp": 20.3,
+    "dev point": 5.2,
+    "VPD": 1.5
+  },
+  {
+    "Humidity": 35.7,
+    "light": 43149,
+    "Temp": 20.4,
+    "dev point": 4.7,
+    "VPD": 1.54
+  },
+  {
+    "Humidity": 35,
+    "light": 43934,
+    "Temp": 20.5,
+    "dev point": 4.5,
+    "VPD": 1.57
+  },
+  {
+    "Humidity": 35.2,
+    "light": 43504,
+    "Temp": 20.5,
+    "dev point": 4.6,
+    "VPD": 1.56
+  },
+  {
+    "Humidity": 36.2,
+    "light": 42255,
+    "Temp": 20.5,
+    "dev point": 5,
+    "VPD": 1.54
+  },
+  {
+    "Humidity": 38.7,
+    "light": 40394,
+    "Temp": 20.4,
+    "dev point": 5.9,
+    "VPD": 1.47
+  },
+  {
+    "Humidity": 38.8,
+    "light": 37834,
+    "Temp": 20.2,
+    "dev point": 5.7,
+    "VPD": 1.45
+  },
+  {
+    "Humidity": 37.3,
+    "light": 36690,
+    "Temp": 20,
+    "dev point": 5,
+    "VPD": 1.47
+  },
+  {
+    "Humidity": 36,
+    "light": 36383,
+    "Temp": 20.1,
+    "dev point": 4.6,
+    "VPD": 1.51
+  },
+  {
+    "Humidity": 36.2,
+    "light": 36311,
+    "Temp": 20.3,
+    "dev point": 4.8,
+    "VPD": 1.52
+  },
+  {
+    "Humidity": 36.1,
+    "light": 36465,
+    "Temp": 20.4,
+    "dev point": 4.9,
+    "VPD": 1.53
+  },
+  {
+    "Humidity": 35.3,
+    "light": 37162,
+    "Temp": 20.5,
+    "dev point": 4.6,
+    "VPD": 1.56
+  },
+  {
+    "Humidity": 35.4,
+    "light": 37609,
+    "Temp": 20.5,
+    "dev point": 4.7,
+    "VPD": 1.56
+  },
+  {
+    "Humidity": 36.1,
+    "light": 38159,
+    "Temp": 20.6,
+    "dev point": 5,
+    "VPD": 1.55
+  },
+  {
+    "Humidity": 34.8,
+    "light": 38688,
+    "Temp": 20.8,
+    "dev point": 4.7,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 34.6,
+    "light": 39226,
+    "Temp": 21,
+    "dev point": 4.8,
+    "VPD": 1.63
+  },
+  {
+    "Humidity": 34.5,
+    "light": 40248,
+    "Temp": 21.2,
+    "dev point": 4.9,
+    "VPD": 1.65
+  },
+  {
+    "Humidity": 35.6,
+    "light": 41136,
+    "Temp": 21.5,
+    "dev point": 5.6,
+    "VPD": 1.65
+  },
+  {
+    "Humidity": 35.5,
+    "light": 41740,
+    "Temp": 21.7,
+    "dev point": 5.8,
+    "VPD": 1.67
+  },
+  {
+    "Humidity": 35.6,
+    "light": 41991,
+    "Temp": 22.1,
+    "dev point": 6.2,
+    "VPD": 1.71
+  },
+  {
+    "Humidity": 35.2,
+    "light": 42188,
+    "Temp": 22.5,
+    "dev point": 6.3,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 35.5,
+    "light": 42316,
+    "Temp": 22.9,
+    "dev point": 6.8,
+    "VPD": 1.8
+  },
+  {
+    "Humidity": 36.7,
+    "light": 42358,
+    "Temp": 23,
+    "dev point": 7.4,
+    "VPD": 1.78
+  },
+  {
+    "Humidity": 36.7,
+    "light": 42456,
+    "Temp": 22.9,
+    "dev point": 7.3,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 36.7,
+    "light": 42510,
+    "Temp": 22.8,
+    "dev point": 7.2,
+    "VPD": 1.76
+  },
+  {
+    "Humidity": 36.2,
+    "light": 42541,
+    "Temp": 22.9,
+    "dev point": 7.1,
+    "VPD": 1.78
+  },
+  {
+    "Humidity": 35.5,
+    "light": 42541,
+    "Temp": 23,
+    "dev point": 6.9,
+    "VPD": 1.81
+  },
+  {
+    "Humidity": 34.6,
+    "light": 42578,
+    "Temp": 23.2,
+    "dev point": 6.7,
+    "VPD": 1.86
+  },
+  {
+    "Humidity": 37.4,
+    "light": 42788,
+    "Temp": 23.3,
+    "dev point": 7.9,
+    "VPD": 1.79
+  },
+  {
+    "Humidity": 38.2,
+    "light": 42993,
+    "Temp": 23.3,
+    "dev point": 8.3,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 37.9,
+    "light": 43355,
+    "Temp": 23.2,
+    "dev point": 8,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 38.2,
+    "light": 43921,
+    "Temp": 23.1,
+    "dev point": 8.1,
+    "VPD": 1.75
+  },
+  {
+    "Humidity": 37.5,
+    "light": 44349,
+    "Temp": 23.1,
+    "dev point": 7.8,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 36.8,
+    "light": 44469,
+    "Temp": 23.1,
+    "dev point": 7.5,
+    "VPD": 1.79
+  },
+  {
+    "Humidity": 35.8,
+    "light": 44233,
+    "Temp": 23.2,
+    "dev point": 7.2,
+    "VPD": 1.83
+  },
+  {
+    "Humidity": 36.6,
+    "light": 44224,
+    "Temp": 23.3,
+    "dev point": 7.6,
+    "VPD": 1.81
+  },
+  {
+    "Humidity": 36.5,
+    "light": 44382,
+    "Temp": 23.5,
+    "dev point": 7.8,
+    "VPD": 1.84
+  },
+  {
+    "Humidity": 37.2,
+    "light": 44509,
+    "Temp": 23.7,
+    "dev point": 8.2,
+    "VPD": 1.84
+  },
+  {
+    "Humidity": 38.3,
+    "light": 44610,
+    "Temp": 23.8,
+    "dev point": 8.7,
+    "VPD": 1.82
+  },
+  {
+    "Humidity": 35.5,
+    "light": 44463,
+    "Temp": 23.9,
+    "dev point": 7.7,
+    "VPD": 1.91
+  },
+  {
+    "Humidity": 34.9,
+    "light": 44135,
+    "Temp": 23.8,
+    "dev point": 7.4,
+    "VPD": 1.92
+  },
+  {
+    "Humidity": 34.5,
+    "light": 43806,
+    "Temp": 23.8,
+    "dev point": 7.2,
+    "VPD": 1.93
+  },
+  {
+    "Humidity": 33.2,
+    "light": 43622,
+    "Temp": 24,
+    "dev point": 6.8,
+    "VPD": 1.99
+  },
+  {
+    "Humidity": 33.4,
+    "light": 43639,
+    "Temp": 24.2,
+    "dev point": 7.1,
+    "VPD": 2.01
+  },
+  {
+    "Humidity": 33.2,
+    "light": 43742,
+    "Temp": 24.5,
+    "dev point": 7.2,
+    "VPD": 2.05
+  },
+  {
+    "Humidity": 33.6,
+    "light": 43948,
+    "Temp": 24.6,
+    "dev point": 7.5,
+    "VPD": 2.05
+  },
+  {
+    "Humidity": 32.3,
+    "light": 43998,
+    "Temp": 24.7,
+    "dev point": 7,
+    "VPD": 2.11
+  },
+  {
+    "Humidity": 32.4,
+    "light": 44109,
+    "Temp": 24.7,
+    "dev point": 7.1,
+    "VPD": 2.1
+  },
+  {
+    "Humidity": 33.5,
+    "light": 44066,
+    "Temp": 24.7,
+    "dev point": 7.6,
+    "VPD": 2.07
+  },
+  {
+    "Humidity": 32.7,
+    "light": 44187,
+    "Temp": 24.6,
+    "dev point": 7.1,
+    "VPD": 2.08
+  },
+  {
+    "Humidity": 32,
+    "light": 44357,
+    "Temp": 24.7,
+    "dev point": 6.9,
+    "VPD": 2.12
+  },
+  {
+    "Humidity": 33.2,
+    "light": 44495,
+    "Temp": 24.7,
+    "dev point": 7.4,
+    "VPD": 2.08
+  },
+  {
+    "Humidity": 33.9,
+    "light": 44645,
+    "Temp": 24.7,
+    "dev point": 7.7,
+    "VPD": 2.06
+  },
+  {
+    "Humidity": 33.2,
+    "light": 44626,
+    "Temp": 24.7,
+    "dev point": 7.4,
+    "VPD": 2.08
+  },
+  {
+    "Humidity": 33.4,
+    "light": 44962,
+    "Temp": 24.7,
+    "dev point": 7.5,
+    "VPD": 2.07
+  },
+  {
+    "Humidity": 33.9,
+    "light": 45567,
+    "Temp": 24.7,
+    "dev point": 7.7,
+    "VPD": 2.06
+  },
+  {
+    "Humidity": 33.8,
+    "light": 45842,
+    "Temp": 24.8,
+    "dev point": 7.8,
+    "VPD": 2.07
+  },
+  {
+    "Humidity": 35.2,
+    "light": 45983,
+    "Temp": 24.8,
+    "dev point": 8.4,
+    "VPD": 2.03
+  },
+  {
+    "Humidity": 35,
+    "light": 46189,
+    "Temp": 24.8,
+    "dev point": 8.3,
+    "VPD": 2.03
+  },
+  {
+    "Humidity": 33.6,
+    "light": 46564,
+    "Temp": 24.9,
+    "dev point": 7.8,
+    "VPD": 2.09
+  },
+  {
+    "Humidity": 33.1,
+    "light": 46864,
+    "Temp": 25.1,
+    "dev point": 7.7,
+    "VPD": 2.13
+  },
+  {
+    "Humidity": 33.7,
+    "light": 46898,
+    "Temp": 25.1,
+    "dev point": 8,
+    "VPD": 2.11
+  },
+  {
+    "Humidity": 34.3,
+    "light": 47212,
+    "Temp": 25.2,
+    "dev point": 8.3,
+    "VPD": 2.11
+  },
+  {
+    "Humidity": 35.4,
+    "light": 47877,
+    "Temp": 25.2,
+    "dev point": 8.8,
+    "VPD": 2.07
+  },
+  {
+    "Humidity": 34.2,
+    "light": 48491,
+    "Temp": 25.2,
+    "dev point": 8.3,
+    "VPD": 2.11
+  },
+  {
+    "Humidity": 34.5,
+    "light": 49295,
+    "Temp": 25.2,
+    "dev point": 8.4,
+    "VPD": 2.1
+  },
+  {
+    "Humidity": 35.2,
+    "light": 49822,
+    "Temp": 25.2,
+    "dev point": 8.7,
+    "VPD": 2.08
+  },
+  {
+    "Humidity": 34.2,
+    "light": 49470,
+    "Temp": 25.2,
+    "dev point": 8.3,
+    "VPD": 2.11
+  },
+  {
+    "Humidity": 34.7,
+    "light": 49292,
+    "Temp": 25.2,
+    "dev point": 8.5,
+    "VPD": 2.09
+  },
+  {
+    "Humidity": 35,
+    "light": 48891,
+    "Temp": 25.2,
+    "dev point": 8.6,
+    "VPD": 2.08
+  },
+  {
+    "Humidity": 35,
+    "light": 48430,
+    "Temp": 25.3,
+    "dev point": 8.7,
+    "VPD": 2.1
+  },
+  {
+    "Humidity": 34.4,
+    "light": 48422,
+    "Temp": 25.3,
+    "dev point": 8.5,
+    "VPD": 2.12
+  },
+  {
+    "Humidity": 33.7,
+    "light": 49107,
+    "Temp": 25.3,
+    "dev point": 8.2,
+    "VPD": 2.14
+  },
+  {
+    "Humidity": 36,
+    "light": 50280,
+    "Temp": 25.4,
+    "dev point": 9.2,
+    "VPD": 2.08
+  },
+  {
+    "Humidity": 35.2,
+    "light": 50874,
+    "Temp": 25.4,
+    "dev point": 8.9,
+    "VPD": 2.1
+  },
+  {
+    "Humidity": 36.8,
+    "light": 51230,
+    "Temp": 25.3,
+    "dev point": 9.5,
+    "VPD": 2.04
+  },
+  {
+    "Humidity": 37,
+    "light": 51483,
+    "Temp": 25.3,
+    "dev point": 9.6,
+    "VPD": 2.03
+  },
+  {
+    "Humidity": 37.3,
+    "light": 51865,
+    "Temp": 25.2,
+    "dev point": 9.6,
+    "VPD": 2.01
+  },
+  {
+    "Humidity": 37.2,
+    "light": 52545,
+    "Temp": 25.2,
+    "dev point": 9.5,
+    "VPD": 2.01
+  },
+  {
+    "Humidity": 37.5,
+    "light": 53198,
+    "Temp": 25.2,
+    "dev point": 9.7,
+    "VPD": 2
+  },
+  {
+    "Humidity": 37.2,
+    "light": 52851,
+    "Temp": 25.1,
+    "dev point": 9.5,
+    "VPD": 2
+  },
+  {
+    "Humidity": 39.6,
+    "light": 51641,
+    "Temp": 25,
+    "dev point": 10.3,
+    "VPD": 1.91
+  },
+  {
+    "Humidity": 40,
+    "light": 49975,
+    "Temp": 24.9,
+    "dev point": 10.4,
+    "VPD": 1.89
+  },
+  {
+    "Humidity": 40.5,
+    "light": 48075,
+    "Temp": 24.7,
+    "dev point": 10.4,
+    "VPD": 1.85
+  },
+  {
+    "Humidity": 40.1,
+    "light": 46190,
+    "Temp": 24.6,
+    "dev point": 10.1,
+    "VPD": 1.85
+  },
+  {
+    "Humidity": 39.9,
+    "light": 45005,
+    "Temp": 24.5,
+    "dev point": 10,
+    "VPD": 1.85
+  },
+  {
+    "Humidity": 40.5,
+    "light": 44183,
+    "Temp": 24.5,
+    "dev point": 10.2,
+    "VPD": 1.83
+  },
+  {
+    "Humidity": 40.3,
+    "light": 43553,
+    "Temp": 24.4,
+    "dev point": 10,
+    "VPD": 1.82
+  },
+  {
+    "Humidity": 40.4,
+    "light": 42966,
+    "Temp": 24.4,
+    "dev point": 10.1,
+    "VPD": 1.82
+  },
+  {
+    "Humidity": 41.3,
+    "light": 42492,
+    "Temp": 24.4,
+    "dev point": 10.4,
+    "VPD": 1.79
+  },
+  {
+    "Humidity": 41.5,
+    "light": 42424,
+    "Temp": 24.4,
+    "dev point": 10.5,
+    "VPD": 1.79
+  },
+  {
+    "Humidity": 42.6,
+    "light": 42271,
+    "Temp": 24.3,
+    "dev point": 10.8,
+    "VPD": 1.74
+  },
+  {
+    "Humidity": 42.3,
+    "light": 42127,
+    "Temp": 24.2,
+    "dev point": 10.6,
+    "VPD": 1.74
+  },
+  {
+    "Humidity": 43.1,
+    "light": 41994,
+    "Temp": 24.1,
+    "dev point": 10.8,
+    "VPD": 1.71
+  },
+  {
+    "Humidity": 42,
+    "light": 42017,
+    "Temp": 24.1,
+    "dev point": 10.4,
+    "VPD": 1.74
+  },
+  {
+    "Humidity": 42.3,
+    "light": 41913,
+    "Temp": 24,
+    "dev point": 10.4,
+    "VPD": 1.72
+  },
+  {
+    "Humidity": 43.7,
+    "light": 41849,
+    "Temp": 24.1,
+    "dev point": 11,
+    "VPD": 1.69
+  },
+  {
+    "Humidity": 45.3,
+    "light": 41907,
+    "Temp": 24,
+    "dev point": 11.4,
+    "VPD": 1.63
+  },
+  {
+    "Humidity": 46.2,
+    "light": 42170,
+    "Temp": 23.9,
+    "dev point": 11.6,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 45.3,
+    "light": 42334,
+    "Temp": 23.9,
+    "dev point": 11.3,
+    "VPD": 1.62
+  },
+  {
+    "Humidity": 46,
+    "light": 42251,
+    "Temp": 23.8,
+    "dev point": 11.5,
+    "VPD": 1.59
+  },
+  {
+    "Humidity": 44.7,
+    "light": 42142,
+    "Temp": 23.8,
+    "dev point": 11,
+    "VPD": 1.63
+  },
+  {
+    "Humidity": 45.4,
+    "light": 42206,
+    "Temp": 23.9,
+    "dev point": 11.4,
+    "VPD": 1.62
+  },
+  {
+    "Humidity": 46.5,
+    "light": 42411,
+    "Temp": 24,
+    "dev point": 11.8,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 46.3,
+    "light": 42822,
+    "Temp": 24,
+    "dev point": 11.8,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 47.5,
+    "light": 42759,
+    "Temp": 24,
+    "dev point": 12.1,
+    "VPD": 1.57
+  },
+  {
+    "Humidity": 49.1,
+    "light": 42700,
+    "Temp": 24.1,
+    "dev point": 12.7,
+    "VPD": 1.53
+  },
+  {
+    "Humidity": 49.8,
+    "light": 42820,
+    "Temp": 24.3,
+    "dev point": 13.1,
+    "VPD": 1.53
+  },
+  {
+    "Humidity": 47.6,
+    "light": 42964,
+    "Temp": 24.5,
+    "dev point": 12.6,
+    "VPD": 1.61
+  },
+  {
+    "Humidity": 47.8,
+    "light": 43367,
+    "Temp": 24.6,
+    "dev point": 12.8,
+    "VPD": 1.61
+  },
+  {
+    "Humidity": 49.9,
+    "light": 43965,
+    "Temp": 24.7,
+    "dev point": 13.5,
+    "VPD": 1.56
+  },
+  {
+    "Humidity": 47.6,
+    "light": 44058,
+    "Temp": 24.8,
+    "dev point": 12.9,
+    "VPD": 1.64
+  },
+  {
+    "Humidity": 47.4,
+    "light": 44447,
+    "Temp": 24.8,
+    "dev point": 12.8,
+    "VPD": 1.65
+  },
+  {
+    "Humidity": 47.6,
+    "light": 44696,
+    "Temp": 24.9,
+    "dev point": 13,
+    "VPD": 1.65
+  },
+  {
+    "Humidity": 49.7,
+    "light": 46091,
+    "Temp": 25.3,
+    "dev point": 14,
+    "VPD": 1.62
+  },
+  {
+    "Humidity": 45,
+    "light": 47317,
+    "Temp": 26,
+    "dev point": 13.1,
+    "VPD": 1.85
+  },
+  {
+    "Humidity": 43.2,
+    "light": 48117,
+    "Temp": 26.2,
+    "dev point": 12.7,
+    "VPD": 1.93
+  },
+  {
+    "Humidity": 46.6,
+    "light": 48939,
+    "Temp": 26.3,
+    "dev point": 13.9,
+    "VPD": 1.83
+  },
+  {
+    "Humidity": 41.9,
+    "light": 49962,
+    "Temp": 26.6,
+    "dev point": 12.6,
+    "VPD": 2.02
+  },
+  {
+    "Humidity": 39.9,
+    "light": 50764,
+    "Temp": 26.6,
+    "dev point": 11.8,
+    "VPD": 2.09
+  },
+  {
+    "Humidity": 39,
+    "light": 51182,
+    "Temp": 26.8,
+    "dev point": 11.7,
+    "VPD": 2.15
+  },
+  {
+    "Humidity": 39,
+    "light": 51313,
+    "Temp": 26.9,
+    "dev point": 11.8,
+    "VPD": 2.16
+  },
+  {
+    "Humidity": 38.5,
+    "light": 51315,
+    "Temp": 26.8,
+    "dev point": 11.5,
+    "VPD": 2.17
+  },
+  {
+    "Humidity": 37.7,
+    "light": 51826,
+    "Temp": 26.9,
+    "dev point": 11.2,
+    "VPD": 2.21
+  },
+  {
+    "Humidity": 38,
+    "light": 52241,
+    "Temp": 27,
+    "dev point": 11.5,
+    "VPD": 2.21
+  },
+  {
+    "Humidity": 37.2,
+    "light": 53533,
+    "Temp": 27,
+    "dev point": 11.1,
+    "VPD": 2.24
+  },
+  {
+    "Humidity": 34.6,
+    "light": 54472,
+    "Temp": 27.2,
+    "dev point": 10.2,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 34.7,
+    "light": 54669,
+    "Temp": 27.2,
+    "dev point": 10.3,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 34.3,
+    "light": 55220,
+    "Temp": 27.2,
+    "dev point": 10.1,
+    "VPD": 2.37
+  },
+  {
+    "Humidity": 36.1,
+    "light": 55712,
+    "Temp": 27.2,
+    "dev point": 10.9,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 32.4,
+    "light": 55404,
+    "Temp": 27.1,
+    "dev point": 9.2,
+    "VPD": 2.42
+  },
+  {
+    "Humidity": 31.7,
+    "light": 54279,
+    "Temp": 27,
+    "dev point": 8.7,
+    "VPD": 2.44
+  },
+  {
+    "Humidity": 32.9,
+    "light": 52876,
+    "Temp": 26.9,
+    "dev point": 9.2,
+    "VPD": 2.38
+  },
+  {
+    "Humidity": 33.5,
+    "light": 51968,
+    "Temp": 26.9,
+    "dev point": 9.5,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 33.3,
+    "light": 51700,
+    "Temp": 26.9,
+    "dev point": 9.4,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 32.7,
+    "light": 52061,
+    "Temp": 26.9,
+    "dev point": 9.1,
+    "VPD": 2.39
+  },
+  {
+    "Humidity": 31.7,
+    "light": 52493,
+    "Temp": 27,
+    "dev point": 8.7,
+    "VPD": 2.44
+  },
+  {
+    "Humidity": 31.6,
+    "light": 53398,
+    "Temp": 27,
+    "dev point": 8.7,
+    "VPD": 2.44
+  },
+  {
+    "Humidity": 31.6,
+    "light": 53653,
+    "Temp": 27,
+    "dev point": 8.7,
+    "VPD": 2.44
+  },
+  {
+    "Humidity": 31.3,
+    "light": 54253,
+    "Temp": 27,
+    "dev point": 8.6,
+    "VPD": 2.45
+  },
+  {
+    "Humidity": 32,
+    "light": 54230,
+    "Temp": 27,
+    "dev point": 8.9,
+    "VPD": 2.42
+  },
+  {
+    "Humidity": 32.6,
+    "light": 54292,
+    "Temp": 26.9,
+    "dev point": 9.1,
+    "VPD": 2.39
+  },
+  {
+    "Humidity": 31.9,
+    "light": 54437,
+    "Temp": 26.8,
+    "dev point": 8.7,
+    "VPD": 2.4
+  },
+  {
+    "Humidity": 31.1,
+    "light": 54610,
+    "Temp": 26.7,
+    "dev point": 8.2,
+    "VPD": 2.41
+  },
+  {
+    "Humidity": 30.8,
+    "light": 54362,
+    "Temp": 26.6,
+    "dev point": 8,
+    "VPD": 2.41
+  },
+  {
+    "Humidity": 31.6,
+    "light": 54277,
+    "Temp": 26.5,
+    "dev point": 8.3,
+    "VPD": 2.37
+  },
+  {
+    "Humidity": 32.6,
+    "light": 53758,
+    "Temp": 26.4,
+    "dev point": 8.6,
+    "VPD": 2.32
+  },
+  {
+    "Humidity": 32.9,
+    "light": 54158,
+    "Temp": 26.3,
+    "dev point": 8.7,
+    "VPD": 2.3
+  },
+  {
+    "Humidity": 31.3,
+    "light": 54199,
+    "Temp": 26.3,
+    "dev point": 7.9,
+    "VPD": 2.35
+  },
+  {
+    "Humidity": 31.6,
+    "light": 53961,
+    "Temp": 26.3,
+    "dev point": 8.1,
+    "VPD": 2.34
+  },
+  {
+    "Humidity": 32,
+    "light": 53637,
+    "Temp": 26.3,
+    "dev point": 8.3,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 31.8,
+    "light": 53570,
+    "Temp": 26.3,
+    "dev point": 8.2,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 31.5,
+    "light": 53692,
+    "Temp": 26.4,
+    "dev point": 8.1,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 32.6,
+    "light": 53540,
+    "Temp": 26.3,
+    "dev point": 8.5,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 32.3,
+    "light": 53375,
+    "Temp": 26.2,
+    "dev point": 8.3,
+    "VPD": 2.3
+  },
+  {
+    "Humidity": 32.2,
+    "light": 53411,
+    "Temp": 26.2,
+    "dev point": 8.3,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 32,
+    "light": 53478,
+    "Temp": 26.3,
+    "dev point": 8.3,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 31.5,
+    "light": 53626,
+    "Temp": 26.5,
+    "dev point": 8.2,
+    "VPD": 2.37
+  },
+  {
+    "Humidity": 31.4,
+    "light": 53658,
+    "Temp": 26.6,
+    "dev point": 8.3,
+    "VPD": 2.39
+  },
+  {
+    "Humidity": 31.4,
+    "light": 53761,
+    "Temp": 26.7,
+    "dev point": 8.3,
+    "VPD": 2.4
+  },
+  {
+    "Humidity": 31.4,
+    "light": 53773,
+    "Temp": 26.7,
+    "dev point": 8.3,
+    "VPD": 2.4
+  },
+  {
+    "Humidity": 32.2,
+    "light": 53699,
+    "Temp": 26.6,
+    "dev point": 8.6,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 31.5,
+    "light": 53872,
+    "Temp": 26.5,
+    "dev point": 8.2,
+    "VPD": 2.37
+  },
+  {
+    "Humidity": 31.2,
+    "light": 53728,
+    "Temp": 26.6,
+    "dev point": 8.2,
+    "VPD": 2.4
+  },
+  {
+    "Humidity": 30.9,
+    "light": 53746,
+    "Temp": 26.6,
+    "dev point": 8,
+    "VPD": 2.41
+  },
+  {
+    "Humidity": 32,
+    "light": 53818,
+    "Temp": 26.5,
+    "dev point": 8.4,
+    "VPD": 2.35
+  },
+  {
+    "Humidity": 32,
+    "light": 53474,
+    "Temp": 26.4,
+    "dev point": 8.4,
+    "VPD": 2.34
+  },
+  {
+    "Humidity": 31.9,
+    "light": 53681,
+    "Temp": 26.4,
+    "dev point": 8.3,
+    "VPD": 2.34
+  },
+  {
+    "Humidity": 31.8,
+    "light": 54091,
+    "Temp": 26.6,
+    "dev point": 8.4,
+    "VPD": 2.38
+  },
+  {
+    "Humidity": 31.9,
+    "light": 54341,
+    "Temp": 26.7,
+    "dev point": 8.6,
+    "VPD": 2.39
+  },
+  {
+    "Humidity": 32.8,
+    "light": 54475,
+    "Temp": 26.7,
+    "dev point": 9,
+    "VPD": 2.35
+  },
+  {
+    "Humidity": 32.3,
+    "light": 54594,
+    "Temp": 26.6,
+    "dev point": 8.7,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 31.9,
+    "light": 54793,
+    "Temp": 26.6,
+    "dev point": 8.5,
+    "VPD": 2.37
+  },
+  {
+    "Humidity": 31.5,
+    "light": 54855,
+    "Temp": 26.5,
+    "dev point": 8.2,
+    "VPD": 2.37
+  },
+  {
+    "Humidity": 32.3,
+    "light": 55296,
+    "Temp": 26.5,
+    "dev point": 8.6,
+    "VPD": 2.34
+  },
+  {
+    "Humidity": 32.8,
+    "light": 55385,
+    "Temp": 26.4,
+    "dev point": 8.7,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 33.1,
+    "light": 55413,
+    "Temp": 26.3,
+    "dev point": 8.8,
+    "VPD": 2.29
+  },
+  {
+    "Humidity": 33,
+    "light": 55183,
+    "Temp": 26.3,
+    "dev point": 8.7,
+    "VPD": 2.29
+  },
+  {
+    "Humidity": 33,
+    "light": 55698,
+    "Temp": 26.2,
+    "dev point": 8.6,
+    "VPD": 2.28
+  },
+  {
+    "Humidity": 33.3,
+    "light": 56077,
+    "Temp": 26.1,
+    "dev point": 8.7,
+    "VPD": 2.26
+  },
+  {
+    "Humidity": 32.8,
+    "light": 56442,
+    "Temp": 26,
+    "dev point": 8.4,
+    "VPD": 2.26
+  },
+  {
+    "Humidity": 32.3,
+    "light": 56406,
+    "Temp": 26,
+    "dev point": 8.2,
+    "VPD": 2.28
+  },
+  {
+    "Humidity": 32.1,
+    "light": 56487,
+    "Temp": 26.2,
+    "dev point": 8.2,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 32.4,
+    "light": 56621,
+    "Temp": 26.2,
+    "dev point": 8.4,
+    "VPD": 2.3
+  },
+  {
+    "Humidity": 32.2,
+    "light": 56780,
+    "Temp": 26.2,
+    "dev point": 8.3,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 31.8,
+    "light": 56910,
+    "Temp": 26,
+    "dev point": 7.9,
+    "VPD": 2.29
+  },
+  {
+    "Humidity": 32,
+    "light": 56140,
+    "Temp": 26,
+    "dev point": 8,
+    "VPD": 2.29
+  },
+  {
+    "Humidity": 33.3,
+    "light": 55716,
+    "Temp": 26,
+    "dev point": 8.6,
+    "VPD": 2.24
+  },
+  {
+    "Humidity": 32.7,
+    "light": 55506,
+    "Temp": 25.9,
+    "dev point": 8.2,
+    "VPD": 2.25
+  },
+  {
+    "Humidity": 32.9,
+    "light": 55654,
+    "Temp": 26,
+    "dev point": 8.4,
+    "VPD": 2.26
+  },
+  {
+    "Humidity": 33,
+    "light": 55196,
+    "Temp": 26.1,
+    "dev point": 8.6,
+    "VPD": 2.27
+  },
+  {
+    "Humidity": 32.4,
+    "light": 54852,
+    "Temp": 26.2,
+    "dev point": 8.4,
+    "VPD": 2.3
+  },
+  {
+    "Humidity": 32.5,
+    "light": 54792,
+    "Temp": 26.3,
+    "dev point": 8.5,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 33,
+    "light": 54869,
+    "Temp": 26.2,
+    "dev point": 8.6,
+    "VPD": 2.28
+  },
+  {
+    "Humidity": 32.5,
+    "light": 55509,
+    "Temp": 26.2,
+    "dev point": 8.4,
+    "VPD": 2.3
+  },
+  {
+    "Humidity": 32.9,
+    "light": 55217,
+    "Temp": 26.1,
+    "dev point": 8.5,
+    "VPD": 2.27
+  },
+  {
+    "Humidity": 32.8,
+    "light": 54670,
+    "Temp": 26.1,
+    "dev point": 8.5,
+    "VPD": 2.27
+  },
+  {
+    "Humidity": 32.6,
+    "light": 54694,
+    "Temp": 26.2,
+    "dev point": 8.5,
+    "VPD": 2.29
+  },
+  {
+    "Humidity": 32,
+    "light": 55102,
+    "Temp": 26.2,
+    "dev point": 8.2,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 32.5,
+    "light": 55281,
+    "Temp": 26.3,
+    "dev point": 8.5,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 33.1,
+    "light": 55606,
+    "Temp": 26.3,
+    "dev point": 8.8,
+    "VPD": 2.29
+  },
+  {
+    "Humidity": 32.8,
+    "light": 55549,
+    "Temp": 26.3,
+    "dev point": 8.6,
+    "VPD": 2.3
+  },
+  {
+    "Humidity": 33.4,
+    "light": 55478,
+    "Temp": 26.3,
+    "dev point": 8.9,
+    "VPD": 2.28
+  },
+  {
+    "Humidity": 33.9,
+    "light": 55033,
+    "Temp": 26.3,
+    "dev point": 9.1,
+    "VPD": 2.26
+  },
+  {
+    "Humidity": 33.8,
+    "light": 55210,
+    "Temp": 26.2,
+    "dev point": 9,
+    "VPD": 2.25
+  },
+  {
+    "Humidity": 33,
+    "light": 55146,
+    "Temp": 26.2,
+    "dev point": 8.6,
+    "VPD": 2.28
+  },
+  {
+    "Humidity": 32.9,
+    "light": 54753,
+    "Temp": 26.2,
+    "dev point": 8.6,
+    "VPD": 2.28
+  },
+  {
+    "Humidity": 33.2,
+    "light": 54688,
+    "Temp": 26.2,
+    "dev point": 8.7,
+    "VPD": 2.27
+  },
+  {
+    "Humidity": 34.4,
+    "light": 54932,
+    "Temp": 26.1,
+    "dev point": 9.2,
+    "VPD": 2.22
+  },
+  {
+    "Humidity": 34.4,
+    "light": 55258,
+    "Temp": 26,
+    "dev point": 9.1,
+    "VPD": 2.21
+  },
+  {
+    "Humidity": 33.9,
+    "light": 55390,
+    "Temp": 26,
+    "dev point": 8.9,
+    "VPD": 2.22
+  },
+  {
+    "Humidity": 33.4,
+    "light": 55462,
+    "Temp": 26,
+    "dev point": 8.6,
+    "VPD": 2.24
+  },
+  {
+    "Humidity": 33.1,
+    "light": 55024,
+    "Temp": 26.2,
+    "dev point": 8.7,
+    "VPD": 2.28
+  },
+  {
+    "Humidity": 32.6,
+    "light": 55100,
+    "Temp": 26.5,
+    "dev point": 8.7,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 33.3,
+    "light": 55058,
+    "Temp": 26.6,
+    "dev point": 9.1,
+    "VPD": 2.32
+  },
+  {
+    "Humidity": 34.2,
+    "light": 55058,
+    "Temp": 26.7,
+    "dev point": 9.6,
+    "VPD": 2.31
+  },
+  {
+    "Humidity": 33.8,
+    "light": 55134,
+    "Temp": 26.7,
+    "dev point": 9.4,
+    "VPD": 2.32
+  },
+  {
+    "Humidity": 33.5,
+    "light": 55209,
+    "Temp": 26.7,
+    "dev point": 9.3,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 33.4,
+    "light": 55413,
+    "Temp": 26.7,
+    "dev point": 9.3,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 33.3,
+    "light": 55516,
+    "Temp": 26.8,
+    "dev point": 9.3,
+    "VPD": 2.35
+  },
+  {
+    "Humidity": 34.1,
+    "light": 55755,
+    "Temp": 26.8,
+    "dev point": 9.7,
+    "VPD": 2.32
+  },
+  {
+    "Humidity": 34.3,
+    "light": 55963,
+    "Temp": 26.7,
+    "dev point": 9.7,
+    "VPD": 2.3
+  },
+  {
+    "Humidity": 33.7,
+    "light": 55745,
+    "Temp": 26.7,
+    "dev point": 9.4,
+    "VPD": 2.32
+  },
+  {
+    "Humidity": 33.3,
+    "light": 55526,
+    "Temp": 26.8,
+    "dev point": 9.3,
+    "VPD": 2.35
+  },
+  {
+    "Humidity": 33.9,
+    "light": 55166,
+    "Temp": 26.9,
+    "dev point": 9.7,
+    "VPD": 2.34
+  },
+  {
+    "Humidity": 34.3,
+    "light": 55091,
+    "Temp": 27,
+    "dev point": 9.9,
+    "VPD": 2.34
+  },
+  {
+    "Humidity": 34,
+    "light": 55147,
+    "Temp": 27.2,
+    "dev point": 10,
+    "VPD": 2.38
+  },
+  {
+    "Humidity": 33.8,
+    "light": 55330,
+    "Temp": 27.6,
+    "dev point": 10.2,
+    "VPD": 2.44
+  },
+  {
+    "Humidity": 34.4,
+    "light": 55157,
+    "Temp": 27.9,
+    "dev point": 10.7,
+    "VPD": 2.47
+  },
+  {
+    "Humidity": 34.5,
+    "light": 54578,
+    "Temp": 28,
+    "dev point": 10.9,
+    "VPD": 2.48
+  },
+  {
+    "Humidity": 34.6,
+    "light": 54556,
+    "Temp": 28.2,
+    "dev point": 11.1,
+    "VPD": 2.5
+  },
+  {
+    "Humidity": 35,
+    "light": 54858,
+    "Temp": 28.5,
+    "dev point": 11.5,
+    "VPD": 2.53
+  },
+  {
+    "Humidity": 34.8,
+    "light": 54754,
+    "Temp": 28.8,
+    "dev point": 11.7,
+    "VPD": 2.58
+  },
+  {
+    "Humidity": 34.1,
+    "light": 54793,
+    "Temp": 29,
+    "dev point": 11.6,
+    "VPD": 2.64
+  },
+  {
+    "Humidity": 33.4,
+    "light": 54767,
+    "Temp": 29.3,
+    "dev point": 11.5,
+    "VPD": 2.71
+  },
+  {
+    "Humidity": 34,
+    "light": 54698,
+    "Temp": 29.8,
+    "dev point": 12.2,
+    "VPD": 2.77
+  },
+  {
+    "Humidity": 35.3,
+    "light": 54433,
+    "Temp": 30.4,
+    "dev point": 13.3,
+    "VPD": 2.81
+  },
+  {
+    "Humidity": 36.7,
+    "light": 54474,
+    "Temp": 30.8,
+    "dev point": 14.3,
+    "VPD": 2.81
+  },
+  {
+    "Humidity": 38.3,
+    "light": 54784,
+    "Temp": 30.8,
+    "dev point": 14.9,
+    "VPD": 2.74
+  },
+  {
+    "Humidity": 37.7,
+    "light": 54976,
+    "Temp": 30.7,
+    "dev point": 14.6,
+    "VPD": 2.75
+  },
+  {
+    "Humidity": 38.4,
+    "light": 54922,
+    "Temp": 30.8,
+    "dev point": 15,
+    "VPD": 2.74
+  },
+  {
+    "Humidity": 38.3,
+    "light": 54702,
+    "Temp": 30.8,
+    "dev point": 14.9,
+    "VPD": 2.74
+  },
+  {
+    "Humidity": 38.3,
+    "light": 54821,
+    "Temp": 30.9,
+    "dev point": 15,
+    "VPD": 2.76
+  },
+  {
+    "Humidity": 37.1,
+    "light": 55098,
+    "Temp": 31.1,
+    "dev point": 14.7,
+    "VPD": 2.84
+  },
+  {
+    "Humidity": 36.8,
+    "light": 54849,
+    "Temp": 31.1,
+    "dev point": 14.6,
+    "VPD": 2.86
+  },
+  {
+    "Humidity": 37.7,
+    "light": 54820,
+    "Temp": 31.1,
+    "dev point": 15,
+    "VPD": 2.81
+  },
+  {
+    "Humidity": 37.9,
+    "light": 55011,
+    "Temp": 30.9,
+    "dev point": 14.9,
+    "VPD": 2.77
+  },
+  {
+    "Humidity": 38.1,
+    "light": 55088,
+    "Temp": 30.8,
+    "dev point": 14.9,
+    "VPD": 2.75
+  },
+  {
+    "Humidity": 37.3,
+    "light": 55093,
+    "Temp": 30.8,
+    "dev point": 14.5,
+    "VPD": 2.78
+  },
+  {
+    "Humidity": 37.8,
+    "light": 55448,
+    "Temp": 30.8,
+    "dev point": 14.7,
+    "VPD": 2.76
+  },
+  {
+    "Humidity": 37.3,
+    "light": 55576,
+    "Temp": 30.9,
+    "dev point": 14.6,
+    "VPD": 2.8
+  },
+  {
+    "Humidity": 37.8,
+    "light": 55621,
+    "Temp": 30.9,
+    "dev point": 14.8,
+    "VPD": 2.78
+  },
+  {
+    "Humidity": 37.6,
+    "light": 55683,
+    "Temp": 30.9,
+    "dev point": 14.7,
+    "VPD": 2.79
+  },
+  {
+    "Humidity": 37.3,
+    "light": 56354,
+    "Temp": 30.9,
+    "dev point": 14.6,
+    "VPD": 2.8
+  },
+  {
+    "Humidity": 36.8,
+    "light": 57290,
+    "Temp": 30.8,
+    "dev point": 14.3,
+    "VPD": 2.81
+  },
+  {
+    "Humidity": 36.9,
+    "light": 58382,
+    "Temp": 30.8,
+    "dev point": 14.4,
+    "VPD": 2.8
+  },
+  {
+    "Humidity": 37.2,
+    "light": 58427,
+    "Temp": 30.8,
+    "dev point": 14.5,
+    "VPD": 2.79
+  },
+  {
+    "Humidity": 37.9,
+    "light": 57911,
+    "Temp": 30.7,
+    "dev point": 14.7,
+    "VPD": 2.74
+  },
+  {
+    "Humidity": 38.7,
+    "light": 57063,
+    "Temp": 30.6,
+    "dev point": 14.9,
+    "VPD": 2.69
+  },
+  {
+    "Humidity": 37.7,
+    "light": 57133,
+    "Temp": 30.5,
+    "dev point": 14.4,
+    "VPD": 2.72
+  },
+  {
+    "Humidity": 39,
+    "light": 58091,
+    "Temp": 30.5,
+    "dev point": 15,
+    "VPD": 2.66
+  },
+  {
+    "Humidity": 38.5,
+    "light": 59550,
+    "Temp": 30.4,
+    "dev point": 14.7,
+    "VPD": 2.67
+  },
+  {
+    "Humidity": 38.1,
+    "light": 58897,
+    "Temp": 30.4,
+    "dev point": 14.5,
+    "VPD": 2.69
+  },
+  {
+    "Humidity": 38.3,
+    "light": 57400,
+    "Temp": 30.3,
+    "dev point": 14.5,
+    "VPD": 2.66
+  },
+  {
+    "Humidity": 39.1,
+    "light": 56481,
+    "Temp": 30.3,
+    "dev point": 14.8,
+    "VPD": 2.63
+  },
+  {
+    "Humidity": 38.2,
+    "light": 55776,
+    "Temp": 30.2,
+    "dev point": 14.4,
+    "VPD": 2.65
+  },
+  {
+    "Humidity": 38.8,
+    "light": 56324,
+    "Temp": 30.1,
+    "dev point": 14.5,
+    "VPD": 2.61
+  },
+  {
+    "Humidity": 39.1,
+    "light": 57046,
+    "Temp": 30,
+    "dev point": 14.6,
+    "VPD": 2.58
+  },
+  {
+    "Humidity": 39.5,
+    "light": 57206,
+    "Temp": 29.9,
+    "dev point": 14.6,
+    "VPD": 2.55
+  },
+  {
+    "Humidity": 39.4,
+    "light": 57082,
+    "Temp": 29.7,
+    "dev point": 14.4,
+    "VPD": 2.53
+  },
+  {
+    "Humidity": 40,
+    "light": 56911,
+    "Temp": 29.6,
+    "dev point": 14.5,
+    "VPD": 2.49
+  },
+  {
+    "Humidity": 40.3,
+    "light": 57221,
+    "Temp": 29.4,
+    "dev point": 14.5,
+    "VPD": 2.45
+  },
+  {
+    "Humidity": 40.1,
+    "light": 57268,
+    "Temp": 29.2,
+    "dev point": 14.2,
+    "VPD": 2.43
+  },
+  {
+    "Humidity": 40.5,
+    "light": 57136,
+    "Temp": 29,
+    "dev point": 14.2,
+    "VPD": 2.38
+  },
+  {
+    "Humidity": 41.1,
+    "light": 57146,
+    "Temp": 28.8,
+    "dev point": 14.3,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 40.8,
+    "light": 57179,
+    "Temp": 28.7,
+    "dev point": 14.1,
+    "VPD": 2.33
+  },
+  {
+    "Humidity": 39.8,
+    "light": 57012,
+    "Temp": 28.8,
+    "dev point": 13.8,
+    "VPD": 2.38
+  },
+  {
+    "Humidity": 39.3,
+    "light": 56884,
+    "Temp": 28.9,
+    "dev point": 13.7,
+    "VPD": 2.42
+  },
+  {
+    "Humidity": 39.8,
+    "light": 56657,
+    "Temp": 29.1,
+    "dev point": 14,
+    "VPD": 2.43
+  },
+  {
+    "Humidity": 39.6,
+    "light": 56669,
+    "Temp": 29.1,
+    "dev point": 13.9,
+    "VPD": 2.43
+  },
+  {
+    "Humidity": 39.5,
+    "light": 56433,
+    "Temp": 29.2,
+    "dev point": 14,
+    "VPD": 2.45
+  },
+  {
+    "Humidity": 39.4,
+    "light": 56186,
+    "Temp": 29.5,
+    "dev point": 14.2,
+    "VPD": 2.5
+  },
+  {
+    "Humidity": 38.9,
+    "light": 55867,
+    "Temp": 29.8,
+    "dev point": 14.3,
+    "VPD": 2.56
+  },
+  {
+    "Humidity": 38.4,
+    "light": 55343,
+    "Temp": 29.9,
+    "dev point": 14.2,
+    "VPD": 2.6
+  },
+  {
+    "Humidity": 37.2,
+    "light": 55156,
+    "Temp": 30,
+    "dev point": 13.8,
+    "VPD": 2.66
+  },
+  {
+    "Humidity": 38.3,
+    "light": 55696,
+    "Temp": 30,
+    "dev point": 14.2,
+    "VPD": 2.62
+  },
+  {
+    "Humidity": 37.4,
+    "light": 56092,
+    "Temp": 30,
+    "dev point": 13.9,
+    "VPD": 2.66
+  },
+  {
+    "Humidity": 38.5,
+    "light": 55829,
+    "Temp": 30,
+    "dev point": 14.3,
+    "VPD": 2.61
+  },
+  {
+    "Humidity": 39.5,
+    "light": 55059,
+    "Temp": 29.8,
+    "dev point": 14.5,
+    "VPD": 2.54
+  },
+  {
+    "Humidity": 39.4,
+    "light": 55327,
+    "Temp": 29.7,
+    "dev point": 14.4,
+    "VPD": 2.53
+  },
+  {
+    "Humidity": 39.7,
+    "light": 56851,
+    "Temp": 29.5,
+    "dev point": 14.3,
+    "VPD": 2.49
+  },
+  {
+    "Humidity": 40.8,
+    "light": 58781,
+    "Temp": 29.2,
+    "dev point": 14.5,
+    "VPD": 2.4
+  },
+  {
+    "Humidity": 41,
+    "light": 60872,
+    "Temp": 29,
+    "dev point": 14.4,
+    "VPD": 2.36
+  },
+  {
+    "Humidity": 41,
+    "light": 58146,
+    "Temp": 28.7,
+    "dev point": 14.1,
+    "VPD": 2.32
+  },
+  {
+    "Humidity": 41.9,
+    "light": 60707,
+    "Temp": 28.4,
+    "dev point": 14.2,
+    "VPD": 2.25
+  },
+  {
+    "Humidity": 41.6,
+    "light": 62291,
+    "Temp": 28,
+    "dev point": 13.7,
+    "VPD": 2.21
+  },
+  {
+    "Humidity": 42.3,
+    "light": 61713,
+    "Temp": 27.6,
+    "dev point": 13.6,
+    "VPD": 2.13
+  },
+  {
+    "Humidity": 42.1,
+    "light": 60140,
+    "Temp": 27.4,
+    "dev point": 13.4,
+    "VPD": 2.11
+  },
+  {
+    "Humidity": 42.6,
+    "light": 59223,
+    "Temp": 27.3,
+    "dev point": 13.5,
+    "VPD": 2.08
+  },
+  {
+    "Humidity": 44.7,
+    "light": 58859,
+    "Temp": 27.1,
+    "dev point": 14,
+    "VPD": 1.98
+  },
+  {
+    "Humidity": 44.1,
+    "light": 58058,
+    "Temp": 26.9,
+    "dev point": 13.6,
+    "VPD": 1.98
+  },
+  {
+    "Humidity": 43.8,
+    "light": 57002,
+    "Temp": 26.8,
+    "dev point": 13.4,
+    "VPD": 1.98
+  },
+  {
+    "Humidity": 43.8,
+    "light": 55747,
+    "Temp": 26.7,
+    "dev point": 13.4,
+    "VPD": 1.97
+  },
+  {
+    "Humidity": 44.4,
+    "light": 54649,
+    "Temp": 26.7,
+    "dev point": 13.6,
+    "VPD": 1.95
+  },
+  {
+    "Humidity": 44,
+    "light": 53955,
+    "Temp": 26.6,
+    "dev point": 13.3,
+    "VPD": 1.95
+  },
+  {
+    "Humidity": 43.6,
+    "light": 53235,
+    "Temp": 26.4,
+    "dev point": 13,
+    "VPD": 1.94
+  },
+  {
+    "Humidity": 43.9,
+    "light": 52749,
+    "Temp": 26.2,
+    "dev point": 12.9,
+    "VPD": 1.91
+  },
+  {
+    "Humidity": 44.4,
+    "light": 52203,
+    "Temp": 26.1,
+    "dev point": 13,
+    "VPD": 1.88
+  },
+  {
+    "Humidity": 44.1,
+    "light": 51838,
+    "Temp": 26,
+    "dev point": 12.8,
+    "VPD": 1.88
+  },
+  {
+    "Humidity": 43.7,
+    "light": 51833,
+    "Temp": 25.9,
+    "dev point": 12.6,
+    "VPD": 1.88
+  },
+  {
+    "Humidity": 43.3,
+    "light": 52180,
+    "Temp": 25.8,
+    "dev point": 12.4,
+    "VPD": 1.88
+  },
+  {
+    "Humidity": 43.5,
+    "light": 52722,
+    "Temp": 25.7,
+    "dev point": 12.3,
+    "VPD": 1.87
+  },
+  {
+    "Humidity": 44.2,
+    "light": 53057,
+    "Temp": 25.6,
+    "dev point": 12.5,
+    "VPD": 1.83
+  },
+  {
+    "Humidity": 44.3,
+    "light": 53393,
+    "Temp": 25.4,
+    "dev point": 12.4,
+    "VPD": 1.81
+  },
+  {
+    "Humidity": 44.8,
+    "light": 53546,
+    "Temp": 25.2,
+    "dev point": 12.3,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 44.1,
+    "light": 53358,
+    "Temp": 25.1,
+    "dev point": 12,
+    "VPD": 1.78
+  },
+  {
+    "Humidity": 44.1,
+    "light": 52602,
+    "Temp": 25,
+    "dev point": 11.9,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 44.1,
+    "light": 52941,
+    "Temp": 25,
+    "dev point": 11.9,
+    "VPD": 1.77
+  },
+  {
+    "Humidity": 44.2,
+    "light": 53519,
+    "Temp": 24.9,
+    "dev point": 11.9,
+    "VPD": 1.76
+  },
+  {
+    "Humidity": 45,
+    "light": 53571,
+    "Temp": 24.8,
+    "dev point": 12,
+    "VPD": 1.72
+  },
+  {
+    "Humidity": 44.5,
+    "light": 53354,
+    "Temp": 24.8,
+    "dev point": 11.9,
+    "VPD": 1.74
+  },
+  {
+    "Humidity": 44.2,
+    "light": 53477,
+    "Temp": 24.8,
+    "dev point": 11.8,
+    "VPD": 1.75
+  },
+  {
+    "Humidity": 44.2,
+    "light": 54389,
+    "Temp": 24.8,
+    "dev point": 11.8,
+    "VPD": 1.75
+  },
+  {
+    "Humidity": 43.1,
+    "light": 55891,
+    "Temp": 24.9,
+    "dev point": 11.5,
+    "VPD": 1.79
+  },
+  {
+    "Humidity": 42.7,
+    "light": 57533,
+    "Temp": 25.1,
+    "dev point": 11.5,
+    "VPD": 1.83
+  },
+  {
+    "Humidity": 42.6,
+    "light": 59324,
+    "Temp": 25,
+    "dev point": 11.4,
+    "VPD": 1.82
+  },
+  {
+    "Humidity": 42.6,
+    "light": 59784,
+    "Temp": 24.9,
+    "dev point": 11.3,
+    "VPD": 1.81
+  },
+  {
+    "Humidity": 43.3,
+    "light": 60285,
+    "Temp": 24.7,
+    "dev point": 11.4,
+    "VPD": 1.76
+  },
+  {
+    "Humidity": 43.2,
+    "light": 62129,
+    "Temp": 24.6,
+    "dev point": 11.2,
+    "VPD": 1.76
+  },
+  {
+    "Humidity": 42.5,
+    "light": 63451,
+    "Temp": 24.6,
+    "dev point": 11,
+    "VPD": 1.78
+  },
+  {
+    "Humidity": 43.3,
+    "light": 63417,
+    "Temp": 24.6,
+    "dev point": 11.3,
+    "VPD": 1.75
+  },
+  {
+    "Humidity": 44.1,
+    "light": 63814,
+    "Temp": 24.4,
+    "dev point": 11.4,
+    "VPD": 1.71
+  },
+  {
+    "Humidity": 43.7,
+    "light": 63359,
+    "Temp": 24.3,
+    "dev point": 11.2,
+    "VPD": 1.71
+  },
+  {
+    "Humidity": 44.6,
+    "light": 63715,
+    "Temp": 24.3,
+    "dev point": 11.5,
+    "VPD": 1.68
+  },
+  {
+    "Humidity": 44.6,
+    "light": 64010,
+    "Temp": 24.3,
+    "dev point": 11.5,
+    "VPD": 1.68
+  },
+  {
+    "Humidity": 44.3,
+    "light": 63374,
+    "Temp": 24.3,
+    "dev point": 11.4,
+    "VPD": 1.69
+  },
+  {
+    "Humidity": 44,
+    "light": 62512,
+    "Temp": 24.2,
+    "dev point": 11.2,
+    "VPD": 1.69
+  },
+  {
+    "Humidity": 43.8,
+    "light": 62172,
+    "Temp": 24.2,
+    "dev point": 11.1,
+    "VPD": 1.7
+  },
+  {
+    "Humidity": 44.2,
+    "light": 60862,
+    "Temp": 24,
+    "dev point": 11.1,
+    "VPD": 1.67
+  },
+  {
+    "Humidity": 44.2,
+    "light": 58457,
+    "Temp": 23.7,
+    "dev point": 10.8,
+    "VPD": 1.64
+  },
+  {
+    "Humidity": 44.7,
+    "light": 56019,
+    "Temp": 23.5,
+    "dev point": 10.8,
+    "VPD": 1.6
+  },
+  {
+    "Humidity": 45.6,
+    "light": 52518,
+    "Temp": 23.2,
+    "dev point": 10.8,
+    "VPD": 1.55
+  },
+  {
+    "Humidity": 45.6,
+    "light": 49541,
+    "Temp": 23,
+    "dev point": 10.6,
+    "VPD": 1.53
+  },
+  {
+    "Humidity": 46.3,
+    "light": 48679,
+    "Temp": 22.7,
+    "dev point": 10.6,
+    "VPD": 1.48
+  },
+  {
+    "Humidity": 47.1,
+    "light": 46771,
+    "Temp": 22.4,
+    "dev point": 10.6,
+    "VPD": 1.43
+  },
+  {
+    "Humidity": 47.6,
+    "light": 45437,
+    "Temp": 22.1,
+    "dev point": 10.4,
+    "VPD": 1.39
+  },
+  {
+    "Humidity": 47.5,
+    "light": 44047,
+    "Temp": 21.8,
+    "dev point": 10.1,
+    "VPD": 1.37
+  },
+  {
+    "Humidity": 47.8,
+    "light": 43073,
+    "Temp": 21.6,
+    "dev point": 10,
+    "VPD": 1.35
+  },
+  {
+    "Humidity": 47.6,
+    "light": 43181,
+    "Temp": 21.4,
+    "dev point": 9.8,
+    "VPD": 1.34
+  },
+  {
+    "Humidity": 47.8,
+    "light": 43460,
+    "Temp": 21.3,
+    "dev point": 9.8,
+    "VPD": 1.32
+  },
+  {
+    "Humidity": 49.3,
+    "light": 42990,
+    "Temp": 21.2,
+    "dev point": 10.1,
+    "VPD": 1.28
+  },
+  {
+    "Humidity": 48.8,
+    "light": 41972,
+    "Temp": 21.1,
+    "dev point": 9.9,
+    "VPD": 1.28
+  },
+  {
+    "Humidity": 48.8,
+    "light": 40961,
+    "Temp": 20.9,
+    "dev point": 9.7,
+    "VPD": 1.27
+  },
+  {
+    "Humidity": 49.1,
+    "light": 40045,
+    "Temp": 20.7,
+    "dev point": 9.6,
+    "VPD": 1.24
+  },
+  {
+    "Humidity": 49.6,
+    "light": 39645,
+    "Temp": 20.6,
+    "dev point": 9.7,
+    "VPD": 1.22
+  },
+  {
+    "Humidity": 50.1,
+    "light": 39376,
+    "Temp": 20.6,
+    "dev point": 9.8,
+    "VPD": 1.21
+  },
+  {
+    "Humidity": 50.5,
+    "light": 38921,
+    "Temp": 20.4,
+    "dev point": 9.8,
+    "VPD": 1.19
+  },
+  {
+    "Humidity": 50.8,
+    "light": 38613,
+    "Temp": 20.2,
+    "dev point": 9.7,
+    "VPD": 1.16
+  },
+  {
+    "Humidity": 49.9,
+    "light": 38572,
+    "Temp": 20,
+    "dev point": 9.2,
+    "VPD": 1.17
+  },
+  {
+    "Humidity": 50.4,
+    "light": 38281,
+    "Temp": 19.9,
+    "dev point": 9.3,
+    "VPD": 1.15
+  },
+  {
+    "Humidity": 50.7,
+    "light": 37602,
+    "Temp": 19.8,
+    "dev point": 9.3,
+    "VPD": 1.14
+  },
+  {
+    "Humidity": 51,
+    "light": 36741,
+    "Temp": 19.7,
+    "dev point": 9.3,
+    "VPD": 1.12
+  },
+  {
+    "Humidity": 52.4,
+    "light": 35672,
+    "Temp": 19.5,
+    "dev point": 9.5,
+    "VPD": 1.08
+  },
+  {
+    "Humidity": 51.9,
+    "light": 35168,
+    "Temp": 19.4,
+    "dev point": 9.3,
+    "VPD": 1.08
+  },
+  {
+    "Humidity": 52,
+    "light": 34885,
+    "Temp": 19.3,
+    "dev point": 9.2,
+    "VPD": 1.07
+  },
+  {
+    "Humidity": 52.7,
+    "light": 34079,
+    "Temp": 19.2,
+    "dev point": 9.3,
+    "VPD": 1.05
+  },
+  {
+    "Humidity": 52.3,
+    "light": 33055,
+    "Temp": 19,
+    "dev point": 9,
+    "VPD": 1.05
+  },
+  {
+    "Humidity": 52.5,
+    "light": 32177,
+    "Temp": 18.9,
+    "dev point": 9,
+    "VPD": 1.04
+  },
+  {
+    "Humidity": 52.3,
+    "light": 31426,
+    "Temp": 18.8,
+    "dev point": 8.8,
+    "VPD": 1.04
+  },
+  {
+    "Humidity": 52.5,
+    "light": 30659,
+    "Temp": 18.6,
+    "dev point": 8.7,
+    "VPD": 1.02
+  },
+  {
+    "Humidity": 52.5,
+    "light": 29875,
+    "Temp": 18.5,
+    "dev point": 8.6,
+    "VPD": 1.01
+  },
+  {
+    "Humidity": 53.3,
+    "light": 29080,
+    "Temp": 18.3,
+    "dev point": 8.6,
+    "VPD": 0.98
+  },
+  {
+    "Humidity": 54.2,
+    "light": 28383,
+    "Temp": 18.1,
+    "dev point": 8.7,
+    "VPD": 0.95
+  },
+  {
+    "Humidity": 54.6,
+    "light": 27809,
+    "Temp": 18,
+    "dev point": 8.7,
+    "VPD": 0.94
+  },
+  {
+    "Humidity": 54.4,
+    "light": 27278,
+    "Temp": 18,
+    "dev point": 8.7,
+    "VPD": 0.94
+  },
+  {
+    "Humidity": 54.2,
+    "light": 26773,
+    "Temp": 17.9,
+    "dev point": 8.5,
+    "VPD": 0.94
+  },
+  {
+    "Humidity": 53.6,
+    "light": 26320,
+    "Temp": 17.9,
+    "dev point": 8.3,
+    "VPD": 0.95
+  },
+  {
+    "Humidity": 53.5,
+    "light": 25887,
+    "Temp": 17.9,
+    "dev point": 8.3,
+    "VPD": 0.95
+  },
+  {
+    "Humidity": 53,
+    "light": 25572,
+    "Temp": 17.8,
+    "dev point": 8.1,
+    "VPD": 0.96
+  },
+  {
+    "Humidity": 52.6,
+    "light": 25134,
+    "Temp": 17.9,
+    "dev point": 8.1,
+    "VPD": 0.97
+  },
+  {
+    "Humidity": 53.3,
+    "light": 24754,
+    "Temp": 17.8,
+    "dev point": 8.2,
+    "VPD": 0.95
+  },
+  {
+    "Humidity": 54.7,
+    "light": 24383,
+    "Temp": 17.8,
+    "dev point": 8.6,
+    "VPD": 0.92
+  },
+  {
+    "Humidity": 54.2,
+    "light": 24037,
+    "Temp": 17.9,
+    "dev point": 8.5,
+    "VPD": 0.94
+  },
+  {
+    "Humidity": 53.9,
+    "light": 23672,
+    "Temp": 18.1,
+    "dev point": 8.6,
+    "VPD": 0.96
+  },
+  {
+    "Humidity": 53.3,
+    "light": 23290,
+    "Temp": 18.1,
+    "dev point": 8.4,
+    "VPD": 0.97
+  },
+  {
+    "Humidity": 52.8,
+    "light": 22893,
+    "Temp": 18.2,
+    "dev point": 8.4,
+    "VPD": 0.99
+  },
+  {
+    "Humidity": 51.1,
+    "light": 22534,
+    "Temp": 18.2,
+    "dev point": 7.9,
+    "VPD": 1.02
+  },
+  {
+    "Humidity": 51.6,
+    "light": 22270,
+    "Temp": 18.2,
+    "dev point": 8.1,
+    "VPD": 1.01
+  },
+  {
+    "Humidity": 51.7,
+    "light": 21921,
+    "Temp": 18.2,
+    "dev point": 8.1,
+    "VPD": 1.01
+  },
+  {
+    "Humidity": 51.5,
+    "light": 21658,
+    "Temp": 18.1,
+    "dev point": 7.9,
+    "VPD": 1.01
+  },
+  {
+    "Humidity": 51.5,
+    "light": 21583,
+    "Temp": 18,
+    "dev point": 7.9,
+    "VPD": 1
+  },
+  {
+    "Humidity": 51.4,
+    "light": 21427,
+    "Temp": 17.9,
+    "dev point": 7.7,
+    "VPD": 1
+  },
+  {
+    "Humidity": 51.1,
+    "light": 21106,
+    "Temp": 17.8,
+    "dev point": 7.6,
+    "VPD": 1
+  },
+  {
+    "Humidity": 50.7,
+    "light": 20781,
+    "Temp": 17.7,
+    "dev point": 7.3,
+    "VPD": 1
+  },
+  {
+    "Humidity": 51.9,
+    "light": 20393,
+    "Temp": 17.5,
+    "dev point": 7.5,
+    "VPD": 0.96
+  },
+  {
+    "Humidity": 52.3,
+    "light": 20208,
+    "Temp": 17.4,
+    "dev point": 7.5,
+    "VPD": 0.95
+  },
+  {
+    "Humidity": 52.4,
+    "light": 19531,
+    "Temp": 17.2,
+    "dev point": 7.4,
+    "VPD": 0.93
+  },
+  {
+    "Humidity": 52.5,
+    "light": 19003,
+    "Temp": 17.1,
+    "dev point": 7.3,
+    "VPD": 0.93
+  },
+  {
+    "Humidity": 52.9,
+    "light": 18594,
+    "Temp": 16.9,
+    "dev point": 7.2,
+    "VPD": 0.91
+  },
+  {
+    "Humidity": 53.2,
+    "light": 18060,
+    "Temp": 16.8,
+    "dev point": 7.2,
+    "VPD": 0.9
+  },
+  {
+    "Humidity": 53.2,
+    "light": 17808,
+    "Temp": 16.7,
+    "dev point": 7.1,
+    "VPD": 0.89
+  },
+  {
+    "Humidity": 53.5,
+    "light": 17271,
+    "Temp": 16.6,
+    "dev point": 7.1,
+    "VPD": 0.88
+  },
+  {
+    "Humidity": 53.5,
+    "light": 16855,
+    "Temp": 16.4,
+    "dev point": 6.9,
+    "VPD": 0.87
+  },
+  {
+    "Humidity": 53.5,
+    "light": 16411,
+    "Temp": 16.2,
+    "dev point": 6.7,
+    "VPD": 0.86
+  },
+  {
+    "Humidity": 53.5,
+    "light": 15918,
+    "Temp": 16.1,
+    "dev point": 6.7,
+    "VPD": 0.85
+  },
+  {
+    "Humidity": 53.5,
+    "light": 15472,
+    "Temp": 16,
+    "dev point": 6.6,
+    "VPD": 0.85
+  },
+  {
+    "Humidity": 53.6,
+    "light": 14990,
+    "Temp": 15.8,
+    "dev point": 6.4,
+    "VPD": 0.83
+  },
+  {
+    "Humidity": 53.7,
+    "light": 14462,
+    "Temp": 15.6,
+    "dev point": 6.2,
+    "VPD": 0.82
+  },
+  {
+    "Humidity": 53.8,
+    "light": 13918,
+    "Temp": 15.5,
+    "dev point": 6.2,
+    "VPD": 0.81
+  },
+  {
+    "Humidity": 54,
+    "light": 13467,
+    "Temp": 15.3,
+    "dev point": 6,
+    "VPD": 0.8
+  },
+  {
+    "Humidity": 54.2,
+    "light": 12937,
+    "Temp": 15.2,
+    "dev point": 6,
+    "VPD": 0.79
+  },
+  {
+    "Humidity": 54.7,
+    "light": 12409,
+    "Temp": 15.1,
+    "dev point": 6,
+    "VPD": 0.78
+  },
+  {
+    "Humidity": 54.7,
+    "light": 11990,
+    "Temp": 15,
+    "dev point": 6,
+    "VPD": 0.77
+  },
+  {
+    "Humidity": 54.8,
+    "light": 11436,
+    "Temp": 14.9,
+    "dev point": 5.9,
+    "VPD": 0.77
+  },
+  {
+    "Humidity": 54.9,
+    "light": 10944,
+    "Temp": 14.7,
+    "dev point": 5.7,
+    "VPD": 0.75
+  },
+  {
+    "Humidity": 54.9,
+    "light": 10302,
+    "Temp": 14.6,
+    "dev point": 5.6,
+    "VPD": 0.75
+  },
+  {
+    "Humidity": 55.1,
+    "light": 9718,
+    "Temp": 14.4,
+    "dev point": 5.5,
+    "VPD": 0.74
+  },
+  {
+    "Humidity": 55.2,
+    "light": 9471,
+    "Temp": 14.3,
+    "dev point": 5.4,
+    "VPD": 0.73
+  },
+  {
+    "Humidity": 55.4,
+    "light": 9343,
+    "Temp": 14.2,
+    "dev point": 5.4,
+    "VPD": 0.72
+  },
+  {
+    "Humidity": 55.5,
+    "light": 9094,
+    "Temp": 14.1,
+    "dev point": 5.3,
+    "VPD": 0.72
+  },
+  {
+    "Humidity": 55.4,
+    "light": 8684,
+    "Temp": 14,
+    "dev point": 5.2,
+    "VPD": 0.71
+  },
+  {
+    "Humidity": 55.3,
+    "light": 8406,
+    "Temp": 13.9,
+    "dev point": 5.1,
+    "VPD": 0.71
+  },
+  {
+    "Humidity": 55.4,
+    "light": 8072,
+    "Temp": 13.8,
+    "dev point": 5,
+    "VPD": 0.7
+  },
+  {
+    "Humidity": 55.3,
+    "light": 7754,
+    "Temp": 13.7,
+    "dev point": 4.9,
+    "VPD": 0.7
+  },
+  {
+    "Humidity": 55.4,
+    "light": 7280,
+    "Temp": 13.6,
+    "dev point": 4.8,
+    "VPD": 0.69
+  },
+  {
+    "Humidity": 55.5,
+    "light": 6983,
+    "Temp": 13.6,
+    "dev point": 4.9,
+    "VPD": 0.69
+  },
+  {
+    "Humidity": 55.8,
+    "light": 6276,
+    "Temp": 13.5,
+    "dev point": 4.8,
+    "VPD": 0.68
+  },
+  {
+    "Humidity": 55.7,
+    "light": 6352,
+    "Temp": 13.4,
+    "dev point": 4.7,
+    "VPD": 0.68
+  },
+  {
+    "Humidity": 55.7,
+    "light": 6106,
+    "Temp": 13.4,
+    "dev point": 4.7,
+    "VPD": 0.68
+  },
+  {
+    "Humidity": 55.5,
+    "light": 6225,
+    "Temp": 13.3,
+    "dev point": 4.6,
+    "VPD": 0.68
+  },
+  {
+    "Humidity": 55.5,
+    "light": 6149,
+    "Temp": 13.3,
+    "dev point": 4.6,
+    "VPD": 0.68
+  },
+  {
+    "Humidity": 55.5,
+    "light": 6154,
+    "Temp": 13.2,
+    "dev point": 4.5,
+    "VPD": 0.68
+  },
+  {
+    "Humidity": 55.7,
+    "light": 5822,
+    "Temp": 13.1,
+    "dev point": 4.4,
+    "VPD": 0.67
+  },
+  {
+    "Humidity": 55.6,
+    "light": 5534,
+    "Temp": 13.1,
+    "dev point": 4.4,
+    "VPD": 0.67
+  },
+  {
+    "Humidity": 55.7,
+    "light": 5365,
+    "Temp": 13,
+    "dev point": 4.3,
+    "VPD": 0.66
+  },
+  {
+    "Humidity": 55.9,
+    "light": 5122,
+    "Temp": 12.9,
+    "dev point": 4.3,
+    "VPD": 0.66
+  },
+  {
+    "Humidity": 55.9,
+    "light": 4825,
+    "Temp": 12.8,
+    "dev point": 4.2,
+    "VPD": 0.65
+  },
+  {
+    "Humidity": 56,
+    "light": 4713,
+    "Temp": 12.8,
+    "dev point": 4.2,
+    "VPD": 0.65
+  },
+  {
+    "Humidity": 56,
+    "light": 4527,
+    "Temp": 12.7,
+    "dev point": 4.1,
+    "VPD": 0.65
+  },
+  {
+    "Humidity": 56.1,
+    "light": 4418,
+    "Temp": 12.6,
+    "dev point": 4.1,
+    "VPD": 0.64
+  },
+  {
+    "Humidity": 56.2,
+    "light": 4216,
+    "Temp": 12.6,
+    "dev point": 4.1,
+    "VPD": 0.64
+  },
+  {
+    "Humidity": 56.5,
+    "light": 3956,
+    "Temp": 12.5,
+    "dev point": 4.1,
+    "VPD": 0.63
+  },
+  {
+    "Humidity": 56.6,
+    "light": 3796,
+    "Temp": 12.5,
+    "dev point": 4.1,
+    "VPD": 0.63
+  },
+  {
+    "Humidity": 57,
+    "light": 3648,
+    "Temp": 12.4,
+    "dev point": 4.1,
+    "VPD": 0.62
+  },
+  {
+    "Humidity": 57.2,
+    "light": 3432,
+    "Temp": 12.3,
+    "dev point": 4.1,
+    "VPD": 0.61
+  },
+  {
+    "Humidity": 57.2,
+    "light": 3142,
+    "Temp": 12.2,
+    "dev point": 4,
+    "VPD": 0.61
+  },
+  {
+    "Humidity": 57.2,
+    "light": 2943,
+    "Temp": 12.2,
+    "dev point": 4,
+    "VPD": 0.61
+  },
+  {
+    "Humidity": 57.3,
+    "light": 2847,
+    "Temp": 12.1,
+    "dev point": 3.9,
+    "VPD": 0.6
+  },
+  {
+    "Humidity": 57.5,
+    "light": 2742,
+    "Temp": 12,
+    "dev point": 3.9,
+    "VPD": 0.6
+  },
+  {
+    "Humidity": 57.5,
+    "light": 2675,
+    "Temp": 11.9,
+    "dev point": 3.8,
+    "VPD": 0.59
+  },
+  {
+    "Humidity": 57.5,
+    "light": 2555,
+    "Temp": 11.9,
+    "dev point": 3.8,
+    "VPD": 0.59
+  },
+  {
+    "Humidity": 57.5,
+    "light": 2423,
+    "Temp": 11.8,
+    "dev point": 3.7,
+    "VPD": 0.59
+  },
+  {
+    "Humidity": 57.4,
+    "light": 2256,
+    "Temp": 11.8,
+    "dev point": 3.7,
+    "VPD": 0.59
+  },
+  {
+    "Humidity": 57.5,
+    "light": 2068,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.4,
+    "light": 1943,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.59
+  },
+  {
+    "Humidity": 57.5,
+    "light": 1842,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.5,
+    "light": 1750,
+    "Temp": 11.6,
+    "dev point": 3.5,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.6,
+    "light": 1642,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.7,
+    "light": 1537,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.7,
+    "light": 1438,
+    "Temp": 11.6,
+    "dev point": 3.5,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.7,
+    "light": 1349,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.6,
+    "light": 1264,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.4,
+    "light": 1182,
+    "Temp": 11.7,
+    "dev point": 3.6,
+    "VPD": 0.59
+  },
+  {
+    "Humidity": 57.5,
+    "light": 1102,
+    "Temp": 11.6,
+    "dev point": 3.5,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.5,
+    "light": 1027,
+    "Temp": 11.6,
+    "dev point": 3.5,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.6,
+    "light": 951,
+    "Temp": 11.6,
+    "dev point": 3.5,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.6,
+    "light": 879,
+    "Temp": 11.6,
+    "dev point": 3.5,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.7,
+    "light": 806,
+    "Temp": 11.5,
+    "dev point": 3.4,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.7,
+    "light": 734,
+    "Temp": 11.5,
+    "dev point": 3.4,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.9,
+    "light": 666,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.7,
+    "light": 602,
+    "Temp": 11.5,
+    "dev point": 3.4,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.8,
+    "light": 542,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 485,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 434,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.9,
+    "light": 390,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58,
+    "light": 350,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 313,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.9,
+    "light": 277,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58,
+    "light": 245,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 214,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.9,
+    "light": 185,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.9,
+    "light": 160,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58,
+    "light": 138,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 118,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 100,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.9,
+    "light": 84,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.8,
+    "light": 70,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.8,
+    "light": 58,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 57.9,
+    "light": 47,
+    "Temp": 11.5,
+    "dev point": 3.5,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 38,
+    "Temp": 11.6,
+    "dev point": 3.6,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58.2,
+    "light": 31,
+    "Temp": 11.7,
+    "dev point": 3.8,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58.2,
+    "light": 24,
+    "Temp": 11.7,
+    "dev point": 3.8,
+    "VPD": 0.57
+  },
+  {
+    "Humidity": 58,
+    "light": 19,
+    "Temp": 11.7,
+    "dev point": 3.7,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.9,
+    "light": 15,
+    "Temp": 11.7,
+    "dev point": 3.7,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.9,
+    "light": 12,
+    "Temp": 11.7,
+    "dev point": 3.7,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.9,
+    "light": 9,
+    "Temp": 11.8,
+    "dev point": 3.8,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.8,
+    "light": 7,
+    "Temp": 11.8,
+    "dev point": 3.8,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 57.9,
+    "light": 6,
+    "Temp": 11.8,
+    "dev point": 3.8,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58,
+    "light": 4,
+    "Temp": 11.8,
+    "dev point": 3.8,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58.2,
+    "light": 4,
+    "Temp": 11.8,
+    "dev point": 3.9,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58.2,
+    "light": 3,
+    "Temp": 11.8,
+    "dev point": 3.9,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58,
+    "light": 2,
+    "Temp": 11.8,
+    "dev point": 3.8,
+    "VPD": 0.58
+  },
+  {
+    "Humidity": 58.2,
+    "light": 2,
+    "Temp": 11.8,
+    "dev point": 3.9,
+    "VPD": 0.58
+  }
+]
